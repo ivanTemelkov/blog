@@ -4,8 +4,6 @@ title: "AI Automation vs. Real Automation"
 tags: [ai, automation, determinism, ai-agents]
 ---
 
-# AI Automation vs. Real Automation
-
 Recently, I have seen many videos showing how amazing Claude Code, Codex, or any other AI coding agent can be.
 
 The pattern is often very similar:

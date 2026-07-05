@@ -4,8 +4,6 @@ title: "AI as an Amplifier vs. AI as an Echo Chamber"
 tags: [ai, software-engineering, ai-assisted-development, critical-thinking]
 ---
 
-# AI as an Amplifier vs. AI as an Echo Chamber
-
 AI is not a magic solution for every problem.
 
 It is better understood as an **amplifier** of our potential.
