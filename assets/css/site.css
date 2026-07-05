@@ -169,13 +169,7 @@ blockquote {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  margin-top: 0.25rem;
   font-weight: 600;
-  text-decoration: none;
-}
-
-.linkedin-link:hover {
-  text-decoration: underline;
 }
 
 .linkedin-icon {
