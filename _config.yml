@@ -2,7 +2,7 @@ title: Ivan Temelkov
 description: Notes on software development, engineering practice, and AI-assisted workflows.
 author: Ivan Temelkov
 url: ""
-baseurl: ""
+baseurl: "/blog"
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
@@ -12,7 +12,7 @@ exclude:
 
 defaults:
   - scope:
-      path: ""
+      path: "/blog"
       type: posts
     values:
       layout: post
