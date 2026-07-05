@@ -165,6 +165,26 @@ blockquote {
   margin-bottom: 2rem;
 }
 
+.linkedin-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.25rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.linkedin-link:hover {
+  text-decoration: underline;
+}
+
+.linkedin-icon {
+  width: 1.25rem;
+  height: 1.25rem;
+  fill: #0a66c2;
+  flex-shrink: 0;
+}
+
 @media (max-width: 560px) {
   body {
     font-size: 17px;
